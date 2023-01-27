@@ -81,3 +81,85 @@ h3 {
     color: #FFFFFF;
     border-style: none;
 }
+.Contactinfo{
+    display: flex;
+    margin-top: 51px;
+    flex-direction: row;
+    padding-left: 139px;
+    padding-right: 40%;
+    justify-content: space-between;
+    
+  
+}
+.Contactinfobox{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 13px;
+}
+.Contactinfo h3{
+    font-size: 18px;
+    font-weight: 400;
+}
+.Contactinfo p{
+    color: #B1B1B1;
+    font-size: 14px;
+    font-weight: 300;
+}
+.photos{
+    padding: 86px 0 54px 140px;
+    gap: 10px;
+}
+.photosbox{
+    width: 1366px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+}
+.photosbox img{
+    width: 352px;
+    height: 352px;
+}
+footer{
+    height: 395px;
+    background-color: #000000;
+    margin-top: 10px;
+    flex-direction: row;
+    padding-top: 89px;
+    display: flex;
+    width: 1366px;
+    justify-content: space-around;
+}
+footer h2{
+    font-size: 24px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+footer p{
+    color: #B1B1B1;
+    font-size: 14px;
+    font-weight: 300;
+}
+.footerbox{
+    width: 260px;
+    height: 192px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.footerbox img{
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+}
+.footerbox div{
+    display: flex;
+    flex-direction: row;
+    justify-content: 
+}
+.box2{
+    color: #5863F8;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+}
