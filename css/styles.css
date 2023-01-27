@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    animation: none;
+
+}
+header{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 73px;
+    padding-left: 140px;
+}
+h6{
+    font-size: 14px;
+    color: #5863F8;
+}
+h3{
+    font-size: 42px;
+    color: #000000;
+    font-weight: 400;
+}
+.Box{
+    display: flex;
+    padding-left: 140px;
+    flex-direction: row;
+    padding-top: 54px;
+}
+.Description {
+    font-size: 13px;
+    width: 720px;
+    height: 288px;
+    background-color: #F8F8F8;
+    border: 1px solid #E8E8E8;
+}
+.Box1{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-left: 16px;
+}
+.Subject{
+   width: 352px;
+   height: 60px;
+   font-size: 13px;
+   background-color: #F8F8F8;
+   border: 1px solid #E8E8E8;
+}
+.Name{
+    width: 352px;
+    height: 60px;
+    font-size: 13px;
+    background-color: #F8F8F8;
+    border: 1px solid #E8E8E8;
+}
+.Email{
+    width: 352px;
+    height: 60px;
+    font-size: 13px;
+    background-color: #F8F8F8;
+    border: 1px solid #E8E8E8;
+}
+.Send{
+    width: 352px;
+    height: 60px; 
+    background-color:   #5863F8 ;
+    color: #FFFFFF;
+    border-style: none;
+}
